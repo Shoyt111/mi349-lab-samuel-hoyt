@@ -60,4 +60,4 @@ When prompted for a site, select the existing site or create a new one. The publ
 ## Submission Links
 
 - GitHub repository: [Shoyt111/mi349-lab-samuel-hoyt](https://github.com/Shoyt111/mi349-lab-samuel-hoyt)
-- Public Netlify site: add the final Netlify URL here after deployment
+- Public Netlify site: [beamish-gumption-4de9cc.netlify.app](https://beamish-gumption-4de9cc.netlify.app/)
