@@ -4,6 +4,11 @@ A small, static personal website created for the MI 349 lab. The page introduces
 
 This project is a Hello World page built with standard HTML5. It intentionally uses no CSS, so the content is presented with the browser's default styling.
 
+# AI Use
+-I used ai for suggestions on how to complete tasks only when I couldnt get it to work on my own.
+-Idea suggestions on how to improve my site
+
+
 ## What's Included
 
 - A simple welcome header with an MSU-inspired message
