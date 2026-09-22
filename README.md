@@ -1,6 +1,6 @@
 # mi349-lab-samuel-hoyt
 
- This personal website created for the MI 349 lab. The website contains a self introduction, talks about my favorite things and goals, and includes a link to Michigan State University's website.
+ I created this static personal website for the MI 349 lab. The website contains a self introduction, talks about my favorite things and goals, and includes a link to Michigan State University's website. 
 
 
 ## AI Use
