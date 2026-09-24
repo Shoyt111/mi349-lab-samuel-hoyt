@@ -10,8 +10,17 @@
 - I was able to divide information into sections based off of suggestions from the ai.
 - Couldnt figure out how to get the image to appear on the site and formatted properly so I got a suggestion there.
 
+## Deployment
 
-
+```text
+.
+├── index.html   # Page structure,conten and is the sites homepage.
+├── image.jpg    # Campus image used by the page
+└── README.md    # Project documentation
+```
+- A static site deployed via github
+- index.html contains all content and is the sites homepage.
+- 
 
 
 
