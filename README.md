@@ -19,7 +19,6 @@
 └── README.md    # Project documentation
 ```
 - A static site deployed via github
-- index.html contains all content and is the sites homepage.
 - 
 
 
