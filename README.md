@@ -23,6 +23,6 @@
 - Had to make sure image was in the repository (root?) so it would deploy with the text correctly
 - index.html is used as the sites homepage.
 - Project files for all in the repository 
-
+- Created a reporsitory for my code and published my site on netlify
 
 
